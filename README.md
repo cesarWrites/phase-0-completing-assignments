@@ -216,7 +216,7 @@ been created:
 
 This branch contains the work you've done so far. If you ever want to go back to
 a previous solution, go to your repository on GitHub and switch to the `fis-wip`
-branch.
+branch.c
 
 ## Types of Assignments
 
